@@ -1,0 +1,115 @@
+/* start header css */
+
+
+/* top-bar css */
+.top-bar{
+    background-color: #709b1d;
+}
+
+.top-bar .nav{
+    margin: 0px;
+}
+
+
+.top-bar .nav .nav-item a{
+    font-size: 14px;
+    color: #ffffff;
+    text-transform: capitalize;
+    padding:12px;
+}
+.top-bar .nav .nav-item a i{
+    margin-right: 7px;
+}
+.top-bar .nav .nav-item :hover{
+    background-color: #ffffff;
+    transition: .5s;
+
+}
+.top-bar .nav .nav-item a:hover{
+    color: #709b1d;
+    transition: .5s;
+}
+
+.btn {
+    background-color: #ffffff;
+    font-size: 14px;
+    color: #709b1d;
+    text-transform: capitalize;
+    padding:12px;
+
+}
+
+.dropdown-item{
+    text-transform: capitalize;
+}
+/* end top-bar css */
+
+/* top-mid-bar css */
+.top-mid-bar{
+    height: 90px;
+}
+
+.mid-bar-content{
+    padding-top: 20px;
+
+}
+
+.logo span{
+    color: #709b1d;
+}
+.mid-right{
+    padding-top: 25px;
+}
+.mid-bar-content a{
+    text-decoration: none;
+    font-weight: bold;
+    color:#709b1d ;
+    float: right;
+
+}
+.mid-bar-content a span{
+    color: black;
+}
+
+.mid-icons i{
+    background-color:#ffffff ;
+    color: #709b1d;
+}
+/* end top-mid-bar css */
+
+/* top-menu-bar css */
+
+.top-menu-bar{
+    background-color: #f3f3f3;
+}
+.top-menu-bar a{
+    font-size: 14px;
+    color: #709b1d;
+    text-transform: capitalize;
+    padding-left: 0px;
+    
+}
+.top-menu-bar .nav-item:hover{
+    background-color: #709b1d;
+    transition: .5s;
+    border-radius: 5px;
+  
+}
+.top-menu-bar  a:hover{
+    color: #ffffff;
+    transition: .5s;
+}
+.input-group{
+    padding:4px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.input-group i{
+    background-color: #709b1d;
+    padding: 10px;
+    color: #ffffff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+}
+
